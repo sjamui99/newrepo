@@ -1,0 +1,10 @@
+h1{
+  color: rgb(214, 214, 13);  
+}
+a:link{
+  color:violet;
+  text-decoration: none;
+}
+a:hover{
+  color:orange;
+}
